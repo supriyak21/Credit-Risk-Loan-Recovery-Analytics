@@ -21,4 +21,4 @@ Python | pandas | scikit-learn | Statistical Analysis | Predictive Modeling | Mo
 ### Business Application
 Supports credit-risk segmentation, portfolio monitoring, and prioritization of higher-risk accounts. Historical analysis only; further validation is required for operational lending decisions.
 
-**Dataset:** Historical LendingClub loan records (https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv/data?select=loan.csv)
+**Dataset:** Historical records 
